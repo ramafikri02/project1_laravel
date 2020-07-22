@@ -52,6 +52,7 @@ hr {
 .card-img-top {
     width: 400px;
     height: 220px;
+    cursor: pointer;
     transition: transform .2s;
 }
 
