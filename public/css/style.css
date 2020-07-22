@@ -1,0 +1,88 @@
+.body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+
+.header_area .main_menu .navbar {
+    padding: 15px 95px;
+}
+
+.navbar {
+    background-color: #d83f87;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.sub-profile {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.container {
+    padding: 35px;
+}
+
+.showcase{
+    float: left;
+    margin: 20px;
+}
+
+.img-profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+hr {
+    background-color: white;
+}
+
+.text-title {
+    font-weight: bold;
+    color: #d83f87;
+}
+
+.card {
+    box-shadow: 2px 3px 18px #000000;
+}
+
+.card-img-top {
+    width: 400px;
+    height: 220px;
+    transition: transform .2s;
+}
+
+.card-img-top:hover {
+    transform: scale(1.1);
+}
+
+.card-title {
+    color: #d83f87;
+}
+
+.card-body {
+    background-color: #ffffff;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.profile {
+    margin-top: 20px;
+    padding: 10px;
+    float: left;
+    transition: 0.5s;
+    margin-left: 80px;
+}
