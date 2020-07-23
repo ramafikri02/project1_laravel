@@ -59,7 +59,7 @@
                 </div>
                 <div class="col mb-4">
                     <div class="card h-100">
-                        <img src="{!! asset('img/pnj2.jpeg') !!}" class="card-img-top" alt="...">
+                        <img src="{!! asset('img/pnj3.jpg') !!}" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title">DSC PNJ 2019</h5>
                             <p class="card-text">Pada tanggal 18 Oktober 2019, saya mengikuti Developer Student Clubs di PNJ tepatnya di Gedung Serbaguna (GSG) PNJ ( Jl. Prof. DR. G.A. Siwabessy, Kukusan, Kecamatan Beji, Kota Depok, Jawa Barat 16424)</p>
